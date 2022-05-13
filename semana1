@@ -1,0 +1,6 @@
+aula  Exercício1 {
+	public  static  void  main ( String  args []) {
+		Sistema . fora . println ( "Estou testando o println()" );
+	}
+
+}
